@@ -1,0 +1,46 @@
+
+.road{
+    height: 700px;
+    width: 1700px;
+}
+
+.Inside{
+    height: 700px;
+    width: 1700px;
+}
+
+.dooor{
+    display: block;
+}
+
+.death{
+    background-image: image()
+}
+
+.door1{
+    height: 600px;
+    width:600px;
+}
+
+#door1{
+    float: left
+}
+
+.door2{
+    height: 600px;
+    width:600px;
+}
+
+#door2{
+    float: right
+}
+
+.links{
+    text-align: right;
+    padding-right: 25px;
+}
+
+body{
+    font-family: "Comic Sans MS";
+    font-size: 30px;
+}
