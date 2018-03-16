@@ -1,3 +1,7 @@
+#somethingunique {
+    background-image: url('images/basement.jpg');
+    
+} 
 
 .road{
     height: 700px;
@@ -13,10 +17,40 @@
     display: block;
 }
 
-.death{
-    background-image: image()
+.death {
+    
 }
 
+.death img {
+    height:850px;
+    width:1600px;
+}
+
+.chair{
+    height:300px;
+    width:300px;
+}
+#chair{
+    margin-left: 250px;
+}
+
+.bottle{
+    height:300px;
+    width:300px;
+}
+
+#bottle{
+    float: none
+}
+
+.gun{
+    height:300px;
+    width:300px;
+}
+
+#gun{
+    float: none
+}
 .door1{
     height: 600px;
     width:600px;
@@ -43,4 +77,9 @@
 body{
     font-family: "Comic Sans MS";
     font-size: 30px;
+}
+
+.link {
+    display: inline-block;
+    margin-right: 200px;
 }
